@@ -6,4 +6,4 @@
 
 
 ## 🛠️Мой стек технологий
-<img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=red" width="40" height="10"/>
+<img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=red" width="80" height="30"/>
