@@ -1,5 +1,8 @@
+![](https://komarev.com/ghpvc/?username=your-github-username)
 ## Привет, друг 👋
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdxNjRpZ2Y3bm9lNHo1cWVvYm81aTU0eW5iNHgwcmp4Y2pqaWU3YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdxNjRpZ2Y3bm9lNHo1cWVvYm81aTU0eW5iNHgwcmp4Y2pqaWU3YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)
+
+## Обо мне 😄
 <!--
 **RomanB51/RomanB51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🛠️Мой стек технологий
