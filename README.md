@@ -10,4 +10,5 @@
 <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=cplusplus&logoColor=red" width="60" height="60"/>
 <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=c&logoColor=blue" width="60" height="60"/>
 <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=cmake&logoColor=blue" width="60" height="60"/> 
+  <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=cmake&logoColor=blue" width="20" height="20"/> 
 </p>
