@@ -11,5 +11,5 @@
 <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=c&logoColor=blue" width="60" height="60" title="C"/>
 <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=cmake&logoColor=7CFC00" width="60" height="60" title="CMake"/>
 <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=postgresql&logoColor=FFC0CB" width="60" height="60" title="PostgreSQL"/> 
-
+<img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=linux&logoColor=FCC624" width="60" height="60" title="Linux"/> 
 </p>
