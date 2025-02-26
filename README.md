@@ -16,6 +16,10 @@
 <img src="https://github.com/RomanB51/Image_for_readme/blob/main/CMake-icon.png" width="60" height="60" title="CMake"/>
 <img src="https://github.com/RomanB51/Image_for_readme/blob/main/AVR-icon.png" width="60" height="60" title="AVR"/>
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanB51&layout=compact)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanB51&theme=tokyonight)
+
+## 📫Контакты
+*Электронная почта: bychkovr51@mail.ru
++
+-
