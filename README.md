@@ -13,3 +13,4 @@
 <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=postgresql&logoColor=FFC0CB" width="60" height="60" title="PostgreSQL"/> 
 <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=linux&logoColor=FCC624" width="60" height="60" title="Linux"/> 
 </p>
+.\icons8-postgresql-48.png
