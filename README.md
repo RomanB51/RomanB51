@@ -14,4 +14,5 @@
 <img src="https://github.com/RomanB51/Image_for_readme/blob/main/Linux-icon.png" width="60" height="60" title="Linux"/>
 <img src="https://github.com/RomanB51/Image_for_readme/blob/main/PostgreSQL-icon.png" width="60" height="60" title="PostgreSQL"/>   
 <img src="https://github.com/RomanB51/Image_for_readme/blob/main/CMake-icon.png" width="60" height="60" title="CMake"/>
+<img src="https://github.com/RomanB51/Image_for_readme/blob/main/AVR-icon.png" width="60" height="60" title="AVR"/>
 </p>
