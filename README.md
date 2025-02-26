@@ -13,5 +13,5 @@
 <img src="https://github.com/RomanB51/Image_for_readme/blob/main/Github-icon.png" width="60" height="60" title="Github"/>
 <img src="https://github.com/RomanB51/Image_for_readme/blob/main/Linux-icon.png" width="60" height="60" title="Linux"/>
 <img src="https://github.com/RomanB51/Image_for_readme/blob/main/PostgreSQL-icon.png" width="60" height="60" title="PostgreSQL"/>   
-<img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=cmake&logoColor=7CFC00" width="60" height="60" title="CMake"/>
+<img src="https://github.com/RomanB51/Image_for_readme/blob/main/CMake-icon.png" width="60" height="60" title="CMake"/>
 </p>
