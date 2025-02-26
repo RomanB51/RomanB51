@@ -7,8 +7,10 @@
 
 ## 🛠️Мой стек технологий
 <p>
-<img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=cplusplus&logoColor=red" width="60" height="60" title="C++"/>
-<img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=c&logoColor=blue" width="60" height="60" title="C"/>
+<img src="https://github.com/RomanB51/Image_for_readme/blob/main/C%2B%2B-icon.png" width="60" height="60" title="C++"/>
+<img src="https://github.com/RomanB51/Image_for_readme/blob/main/C-icon.png" width="60" height="60" title="C"/>
+<img src="https://github.com/RomanB51/Image_for_readme/blob/main/Git-icon.png" width="60" height="60" title="Git"/>
+  
 <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=cmake&logoColor=7CFC00" width="60" height="60" title="CMake"/>
 <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=postgresql&logoColor=FFC0CB" width="60" height="60" title="PostgreSQL"/> 
 <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=linux&logoColor=FCC624" width="60" height="60" title="Linux"/> 
