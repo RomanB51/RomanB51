@@ -20,4 +20,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanB51&theme=tokyonight)
 
 ## 📫Контакты
-*Электронная почта: bychkovr51@mail.ru
+* Электронная почта: bychkovr51@mail.ru
